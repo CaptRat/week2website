@@ -1,0 +1,33 @@
+.blue_table {
+	background-color: lightblue;
+}
+
+.blue_table td {
+	border: 1px solid blue;
+}
+
+.adjectives {
+display: inline-block;
+vertical-align: top;
+}
+
+.photos {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 auto;
+	width: 33%;
+}
+
+.photos img {
+	width: auto;
+	height: 200px;
+
+}
+
+.grey_box td, .grey_box th {
+	border: 1px solid black;
+}
+
+table.grey_box {
+	background-color: grey
+}
